@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: search
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac justo sodales elit laoreet lacinia. Morbi eget est elementum, luctus enim vitae, ultrices erat. Etiam purus arcu, tristique eu elit ac, maximus molestie tellus. Nulla accumsan elementum tempus. Pellentesque pulvinar enim eget imperdiet tempus. 
 
