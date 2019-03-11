@@ -10,5 +10,11 @@
     vertical-align: super;
 }
 .form_padding{
-padding:2em 1em; 
+padding:1em 0em; 
 }
+
+.form_padding .au-select{
+display: block;
+width: 180px;
+}
+
