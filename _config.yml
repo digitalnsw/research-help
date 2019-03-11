@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Name of product or service
+title: Research Library
 browserTitle: Research Library
 email: jessie.calaghan@finance.nsw.gov.au
 description: >- # this means to ignore newlines until "baseurl:"
-  Simple explaination of the product or service.
+  The home for digital research.
 baseurl: "/research-library" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tjharrop
