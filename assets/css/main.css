@@ -133,13 +133,15 @@ h3 {
 }
 
 .au-body h2 {
-font-family:GothamBook;
+font-family:GothamMedium;
 }
 
 .au-body h3 {
-font-family:GothamBook;
+font-family:GothamMedium;
 }
 
-.au-body a {
-font-family:GothamBook;
+.au-body h4 {
+font-family:GothamMedium;
 }
+
+
