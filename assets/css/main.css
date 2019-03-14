@@ -159,7 +159,7 @@ font-family:GothamMedium;
     padding-left: 0;
 }
 
-.blog-metadata li{
+ul.blog-metadata li{
     color: #002664;
     height: 100%;
     border: 1px solid #002664;
