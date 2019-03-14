@@ -78,6 +78,7 @@ address {
     margin-bottom: 20px;
     font-style: normal;
     line-height: 1.42857143;
+    margin-top:10px;
 }
 
 .blog-grid .view-content .views-row .item-list ul {
