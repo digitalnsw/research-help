@@ -51,8 +51,7 @@ select::-ms-expand {
     width: calc(50% - 20px);
     padding-top: 16px;
     padding-top: 1rem;
-    min-height: 450px;
-    min-height: 28.125rem;
+    min-height: 250px;
     margin-right: 20px;
     margin-right: 1.25rem;
     border-top: 4px solid #752F8A;
