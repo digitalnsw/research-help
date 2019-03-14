@@ -131,3 +131,15 @@ h3 {
     margin: 0 0 0.75em 0;
     padding: 0;
 }
+
+.au-body h2 {
+font-family:GothamBook;
+}
+
+.au-body h3 {
+font-family:GothamBook;
+}
+
+.au-body a {
+font-family:GothamBook;
+}
