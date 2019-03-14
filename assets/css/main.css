@@ -143,5 +143,8 @@ font-family:GothamMedium;
 .au-body h4 {
 font-family:GothamMedium;
 }
-
+.au-body strong, .au-body b {
+    font-weight: bold;
+    font-family: GothamMedium;
+}
 
