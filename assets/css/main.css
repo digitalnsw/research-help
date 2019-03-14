@@ -150,6 +150,20 @@ font-family:GothamMedium;
 }
 
 .research-contact{
-border-top: 4px solid #752F8A;
-padding-top: 20px;
+  border-top: 4px solid #752F8A;
+  padding-top: 20px;
+}
+
+ul.blog-metadata li{
+    color: #002664;
+    height: 100%;
+    border: 1px solid #002664;
+    padding: 6px;
+    padding: .375rem;
+    width: auto;
+    display: inline-block;
+    margin: 0;
+    font-size: 11px;
+    font-size: .6875rem;
+    text-transform: uppercase;
 }
