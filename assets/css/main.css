@@ -134,19 +134,19 @@ h3 {
 }
 
 .au-body h2 {
-font-family:GothamMedium, Arial;
+font-family:Montserrat, Arial;
 }
 
 .au-body h3 {
-font-family:GothamMedium, Arial;
+font-family:Montserrat, Arial;
 }
 
 .au-body h4 {
-font-family:GothamMedium, Arial;
+font-family:Montserrat, Arial;
 }
 .au-body strong, .au-body b {
-    font-weight: bold;
-    font-family: GothamMedium, arial;
+    font-weight: 500;
+    font-family: Montserrat, arial;
 }
 
 .research-contact{
