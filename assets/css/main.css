@@ -189,3 +189,16 @@ ul.blog-metadata li{
 vertical-align:middle;
   margin-right:8px;
 }
+
+#lozenge {
+    border-radius: 25px;
+    padding: 14px;
+    width: 200px;
+    height: 11px;
+    font-size: 0.5em;
+}
+
+.download-theme {
+    color: #fff !important;
+    background-color: #4CAF50 !important;
+}
