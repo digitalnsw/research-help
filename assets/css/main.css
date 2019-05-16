@@ -172,3 +172,10 @@ ul.blog-metadata li{
     font-size: .6875rem;
     text-transform: uppercase;
 }
+
+.action {
+  width:100px;
+  float:left;
+  padding-right:20px;
+  font-size:0.7em
+}
