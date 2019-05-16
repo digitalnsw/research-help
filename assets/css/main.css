@@ -173,6 +173,12 @@ ul.blog-metadata li{
     text-transform: uppercase;
 }
 
+.metrics {
+ display:block;
+  height:40;
+  margin:10px;
+}
+
 .action {
   width:100px;
   float:left;
