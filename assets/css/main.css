@@ -184,3 +184,7 @@ ul.blog-metadata li{
   padding-right:30px;
   font-size:0.7em
 }
+
+.action img {
+vertical-align:middle;
+}
