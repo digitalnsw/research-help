@@ -175,13 +175,12 @@ ul.blog-metadata li{
 
 .metrics {
  display:block;
-  height:40;
-  margin:10px;
+  height:40px;
+  margin:10px 0px;
 }
 
 .action {
-  width:100px;
   float:left;
-  padding-right:20px;
+  padding-right:30px;
   font-size:0.7em
 }
