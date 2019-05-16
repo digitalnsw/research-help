@@ -203,3 +203,10 @@ vertical-align:middle;
     color: #fff !important;
     background-color: #2A7CB9 !important;
 }
+
+.feedback {
+  height:200px;
+  background-color: #2A7CB9 !important;
+  text-align:center;
+
+}
