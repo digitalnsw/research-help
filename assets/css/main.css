@@ -205,8 +205,12 @@ vertical-align:middle;
 }
 
 .feedback {
-  height:200px;
   background-color: #2A7CB9 !important;
   text-align:center;
+  padding: 40px 0px;
+}
 
+.feedback p {
+color: #fff;
+  max-width:100%;
 }
