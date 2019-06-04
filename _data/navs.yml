@@ -44,10 +44,10 @@ mainnav:
         url: /
       -
         page: 'Contributing Research'
-        url: /basic/
+        url: /contributing/
       -
         page: 'Tools'
-        url: /form/
+        url: /tools/
 
 bottomnav:
   -
