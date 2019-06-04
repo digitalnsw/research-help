@@ -182,6 +182,7 @@ ul.blog-metadata li{
 .action {
   float:left;
   font-size:0.6em;
+  padding-right:40px;
 }
 
 .action img {
