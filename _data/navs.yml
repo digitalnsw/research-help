@@ -43,21 +43,21 @@ mainnav:
         page: 'Home'
         url: /
       -
-        page: 'Basic page'
+        page: 'Contributing Research'
         url: /basic/
       -
-        page: 'Form page'
+        page: 'Tools'
         url: /form/
 
 bottomnav:
   -
     items:
       -
-        page: 'Privacy'
-        url:
+        page: 'Contact Us'
+        url: https://www.digital.nsw.gov.au/get-involved
       -
-        page: 'Need Help?'
-        url:
+        page: 'Privacy'
+        url: https://www.finance.nsw.gov.au/privacy-statement
       -
         page: 'Accessibility'
-        url:
+        url: https://www.finance.nsw.gov.au/accessibility
