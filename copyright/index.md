@@ -25,7 +25,7 @@ The following material available from this site is not licensed under the Creati
 
 Material not licensed under the Creative Commons Licence may only be downloaded and used on the terms of any licence related to such material which is included on this website or with the express written consent of the author of the work.
 
-To seek permission to use any material other than as permitted by this licence, contact [digital@finance.nsw.gov.au](mailto:digital@finance.nsw.gov.au).
+To seek permission to use any material other than as permitted by this licence, contact [digital@finance.nsw.gov.au](mailto:digital@finance.nsw.gov.au).
 
 ## Disclaimer ##
 
