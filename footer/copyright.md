@@ -1,9 +1,12 @@
-<h1>Copyright and disclaimer</h1>
-<h2>Copyright statement </h2>
+---
+name: Tools for conducting research
+---
+# Copyright and disclaimer #
+## Copyright statement ##
 
-<p>&copy; State of New South Wales Department of Finance, Services and Innovation 2019 </p>
+&copy; State of New South Wales Department of Finance, Services and Innovation 2019
 
-<p>The State of New South Wales, acting through the NSW Department of Finance, Services and Innovation, supports and encourages the reuse where appropriate of certain publicly funded information, and endorses the use of the Australian Governments Open Access and Licensing Framework (AusGOAL) </p>
+The State of New South Wales, acting through the NSW Department of Finance, Services and Innovation, supports and encourages the reuse where appropriate of certain publicly funded information, and endorses the use of the Australian Governments Open Access and Licensing Framework (AusGOAL)
 <a href="https://creativecommons.org/licenses/by/4.0/legalcode"><img src="/research-library/assets/img/cc.png"></a>
 <p>Unless otherwise stated, the content published on this website is licensed under Creative Commons Attribution 4.0 License. For the terms and conditions of this license, visit <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons Attribution 4.0 International</a>.</p>
 
@@ -29,7 +32,7 @@
  
 <p>To seek permission to use any material other than as permitted by this licence, contact <a href="mailto:digital@finance.nsw.gov.au">digital@finance.nsw.gov.au</a>.</p>
 
-<h2>Disclaimer</h2> 
+## Disclaimer ##
 
 <p>The NSW Government is committed to enhancing the public availability, sharing and exchange of information. While the material contained in this Department of Finance, Services and Innovation (DFSI) website (www.finance.nsw.gov.au) has been formulated with all due care, DFSI does not warrant or represent that the material is free from errors or omission, or that it is exhaustive. </p>
 
