@@ -7,8 +7,9 @@ name: Tools for conducting research
 &copy; State of New South Wales Department of Finance, Services and Innovation 2019
 
 The State of New South Wales, acting through the NSW Department of Finance, Services and Innovation, supports and encourages the reuse where appropriate of certain publicly funded information, and endorses the use of the Australian Governments Open Access and Licensing Framework (AusGOAL)
+
 ![CC logo](https://licensebuttons.net/l/by/4.0/88x31.png)
-<p>Unless otherwise stated, the content published on this website is licensed under Creative Commons Attribution 4.0 License. For the terms and conditions of this license, visit [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode).
+Unless otherwise stated, the content published on this website is licensed under Creative Commons Attribution 4.0 License. For the terms and conditions of this license, visit [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode).
 
 Attribution of **&copy; State of New South Wales Department of Finance, Services and Innovation** is required on all content downloaded and reused from this website.
 
