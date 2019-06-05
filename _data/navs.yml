@@ -53,6 +53,9 @@ bottomnav:
   -
     items:
       -
-        page: 'Copyright and disclaimer '
-        url: /footer/copyright.md
+        page: 'Copyright and disclaimer'
+        url: /copyright/
+      -
+        page: 'Takedown Position Statement '
+        url: /takedown/
       
