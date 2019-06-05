@@ -54,5 +54,5 @@ bottomnav:
     items:
       -
         page: 'Copyright and disclaimer '
-        url: /footer/copyright.html
+        url: /footer/copyright.md
       
