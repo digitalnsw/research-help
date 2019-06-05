@@ -10,7 +10,7 @@ The State of New South Wales, acting through the NSW Department of Finance, Serv
 [CC logo](https://licensebuttons.net/l/by/4.0/88x31.png)
 <p>Unless otherwise stated, the content published on this website is licensed under Creative Commons Attribution 4.0 License. For the terms and conditions of this license, visit [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode).
 
-Attribution of <strong>&copy; State of New South Wales Department of Finance, Services and Innovation</stong> is required on all content downloaded and reused from this website.
+Attribution of **&copy; State of New South Wales Department of Finance, Services and Innovation** is required on all content downloaded and reused from this website.
 
 We request that you observe and retain any copyright or related notices that may accompany our material as part of the attribution. 
 
