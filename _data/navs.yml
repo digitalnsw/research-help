@@ -53,11 +53,6 @@ bottomnav:
   -
     items:
       -
-        page: 'Contact Us'
-        url: https://www.digital.nsw.gov.au/get-involved
-      -
-        page: 'Privacy'
-        url: https://www.finance.nsw.gov.au/privacy-statement
-      -
-        page: 'Accessibility'
-        url: https://www.finance.nsw.gov.au/accessibility
+        page: 'Copyright and disclaimer '
+        url: /footer/copyright.html
+      
