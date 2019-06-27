@@ -1,20 +1,34 @@
 ---
-name: Tools for conducting research
+name: Consent forms
 ---
-# Tools for conducting research #
+# Consent Form Builder #
 
-The page heading communicates the main focus of the page. Make your page heading descriptive and keep it succinct.
+If you’re new to research or service design, or your organisation is, you might need to create a consent form and participant information sheet.
 
-These headings introduce, respectively, sections and subsections within your body copy. As you create these headings, follow the same guidelines that you use when writing section headings: Be succinct, descriptive, and precise.
+This tool helps you build forms that include all the terms you need to be compliant with NSW Privacy law, based on what you want to do in your research. 
 
-## Consent form builder ##
+# When to use it #
 
-The particulars of your body copy will be determined by the topic of your page. Regardless of topic, it’s a good practice to follow the inverted pyramid structure when writing copy: Begin with the information that’s most important to your users and then present information of less importance.
+The first iteration of the prototype is aimed at a few research scenarios, but not all. We’re starting small and will build on it over time. 
 
-**Coming Soon**
+We started with forms that can be used for research that involves:
 
-## Privacy Checklist ##
+-	adults able to provide consent on their own behalf 
+-	non-sensitive topics
+-	publication of anonymised research findings
 
-Use the side navigation menu to help your users quickly skip to different sections of your page. The menu is best suited to displaying a hierarchy with one to three levels and, as we mentioned, to display the sub-navigation of a given page.
+Sensitive research topics (for example, domestic violence or health matters) are a bit more complicated. The same goes for gaining consent from children. If you plan to publish or share findings that are not anonymised, you will need additional levels of consent. We plan to look at these scenarios in future. 
 
-Read the full documentation on our side navigation on the component page.
+If you want to use the consent form builder for these kinds of projects, you may need to work with your legal team to add a few extra clauses. 
+
+# Check in with legal and privacy #
+
+The individual parts in the forms have been reviewed by privacy and legal experts in our organisation. However, we encourage you to check in with your own legal and privacy teams. Your organisation might have different needs that aren’t addressed by our form yet.
+
+You can also forward our details to your legal and privacy teams if they’d like to be involved in helping us improve. 
+
+# Get involved #
+
+If you would like to work with us on this project, please get in touch! We’re also looking for people who can help us test the forms with more users and build out the clauses for different research scenarios. We can be contacted at: digital@finance.nsw.gov.au.
+
+
