@@ -22,8 +22,7 @@ The kit includes templates for:
 
 
 
-<p>
-  <a href="mailto:digital@finance.nsw.gov.au?subject=Send me the recruitment kit">
+  <a href="mailto:digital@finance.nsw.gov.au?subject=Please send me the research recruitment kit">
     <button class="au-btn">Send me the kit</button>
   </a>	
-</p>
+
