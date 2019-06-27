@@ -20,4 +20,10 @@ The kit includes templates for:
 - An email invitation
 - A mission patch sticker 
 
-Send me the kit
+
+
+<p>
+  <a href="mailto:digital@finance.nsw.gov.au?subject=Send me the recruitment kit">
+    <button class="au-btn">Send me the kit</button>
+  </a>	
+</p>
