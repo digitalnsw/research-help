@@ -6,7 +6,7 @@ Before we open it up for use though, we need a lots of people to sign up. If we 
 
 ## Get involved
 
-Anything you can do to promote the service will help. You could promote it on your social media accounts, or on your website. If you've done the hard work to recruit users for a usability test or an interview, we've got flyers you can share with them if they want to do further research.
+Anything you can do to promote the service will help. You could promote it on your social media accounts, or on your website. If you've done the hard work to recruit users for a usability test or an interview, we've also got flyers you can share with them if they want to do further research.
 
 ## Build the service kit
 
