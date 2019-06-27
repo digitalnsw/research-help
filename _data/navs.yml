@@ -47,11 +47,11 @@ mainnav:
         url: /contributing/
       -
         page: 'Consent Form Builder'
-        url: /Consent/
+        url: /consent/
         
       -
         page: 'Peer Review Community'
-        url: /Community/ 
+        url: /community/ 
 
 bottomnav:
   -
