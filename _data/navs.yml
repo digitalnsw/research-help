@@ -46,8 +46,8 @@ mainnav:
         page: 'Contributing Research'
         url: /contributing/
       -
-        page: 'Tools'
-        url: /tools/
+        page: 'Consent Form Builder'
+        url: /Consent/
 
 bottomnav:
   -
