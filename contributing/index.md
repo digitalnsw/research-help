@@ -2,6 +2,8 @@
 
 If you have research you would like to publish, we might be able to publish it for you! 
 
-If you answer a few questions for us, we'll get back to you. 
+We have a tool that helps us streamline the publication process. Its just a few questions that helps us understand the research, and what we need to do to publish it. 
 
-Take me to the questions
+<a href="https://forms.gle/B6HtF3GudAsbEaEHA"><button class="au-btn">Publication tool</button></a>
+
+
