@@ -48,6 +48,10 @@ mainnav:
       -
         page: 'Consent Form Builder'
         url: /Consent/
+        
+      -
+        page: 'Community'
+        url: /Community/ 
 
 bottomnav:
   -
