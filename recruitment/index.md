@@ -1,6 +1,6 @@
 # Research recruitment
 
-Recruiting the right users for user research can be hard, costly, and time consuming. We think a research recruitment service that's open to people doing research in government might make researchers lives easier. 
+Recruiting the right users for user research can be hard, costly, and time consuming. We think a research recruitment service that's open to people doing research in government might help. 
 
 Before we open it up for use though, we need a lots of people to sign up. If we don't have enough people on the list, we'll all just end up interviewing the same people! We're a really small team though so we can't build the list without your help.
 
@@ -18,11 +18,9 @@ The kit includes templates for:
 - Facebook posts
 - A flyer
 - An email invitation
-- A mission patch sticker 
 
 
-
-  <a href="mailto:digital@finance.nsw.gov.au?subject=Please send me the research recruitment kit">
-    <button class="au-btn">Send me the kit</button>
-  </a>	
+<a href="mailto:digital@finance.nsw.gov.au?subject=Please send me the research recruitment kit">
+<button class="au-btn">Send me the kit</button>
+</a>	
 
