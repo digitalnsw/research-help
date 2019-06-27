@@ -1,6 +1,6 @@
 # Contributing research #
 
-If you have research you would like to publish, we've got a handy tool that helps streamline the process.
+If you have research you would like to publish, we have a handy tool that helps streamline the process.
 
 It asks a few questions that help us understand the research, and what we need to do to publish it. 
 
