@@ -29,6 +29,6 @@ You can also forward our details to your legal and privacy teams if they’d lik
 
 # Get involved #
 
-If you would like to work with us on this project, please get in touch! We’re also looking for people who can help us test the forms with more users and build out the clauses for different research scenarios. We can be contacted at: digital@finance.nsw.gov.au.
+If you would like to work with us on this project, please get in touch! We’re also looking for people who can help us test the forms with more citizens and build out the clauses for different research scenarios. We can be contacted at: digital@finance.nsw.gov.au.
 
 
