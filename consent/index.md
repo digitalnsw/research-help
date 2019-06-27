@@ -7,6 +7,12 @@ If you’re new to research or service design, or your organisation is, you migh
 
 This tool helps you build forms that include all the terms you need to be compliant with NSW Privacy law, based on what you want to do in your research. 
 
+<p>
+	   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdPAvNyaF5DZrNJOBTN43CAgSkKqB2cyodeTt8YV6fVyqu61A/viewform?usp=sf_link">
+     <button class="au-btn">Take me to the builder!</button>
+  </a>	    
+</p>
+
 ## When to use it 
 
 The first iteration of the prototype is aimed at a few research scenarios, but not all. We’re starting small and will build on it over time. 
