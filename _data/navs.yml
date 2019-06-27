@@ -40,7 +40,7 @@ mainnav:
   -
     items:
       -
-        page: 'Home'
+        page: 'Library Home'
         url: /
       -
         page: 'Contributing Research'
@@ -48,10 +48,12 @@ mainnav:
       -
         page: 'Consent Form Builder'
         url: /consent/
-        
       -
         page: 'Peer Review Community'
         url: /community/ 
+      -
+        page: 'Research Recruitment'
+        url: /recruitment/ 
 
 bottomnav:
   -
