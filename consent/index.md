@@ -5,7 +5,7 @@ name: Consent forms
 
 If you’re new to research or service design, or your organisation is, you might need to create a consent form and participant information sheet.
 
-This tool helps you build forms that include all the terms you need to be compliant with NSW Privacy law, based on what you want to do in your research. 
+This tool helps you build forms that include all the terms you need to be compliant with NSW Privacy law. 
 
 <p>
 	   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdPAvNyaF5DZrNJOBTN43CAgSkKqB2cyodeTt8YV6fVyqu61A/viewform?usp=sf_link">
