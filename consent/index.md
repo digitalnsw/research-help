@@ -1,13 +1,13 @@
 ---
 name: Consent forms
 ---
-# Consent Form Builder #
+# Consent Form Builder 
 
 If you’re new to research or service design, or your organisation is, you might need to create a consent form and participant information sheet.
 
 This tool helps you build forms that include all the terms you need to be compliant with NSW Privacy law, based on what you want to do in your research. 
 
-# When to use it #
+## When to use it 
 
 The first iteration of the prototype is aimed at a few research scenarios, but not all. We’re starting small and will build on it over time. 
 
@@ -21,13 +21,13 @@ Sensitive research topics (for example, domestic violence or health matters) are
 
 If you want to use the consent form builder for these kinds of projects, you may need to work with your legal team to add a few extra clauses. 
 
-# Check in with legal and privacy #
+## Check in with legal and privacy 
 
 The individual parts in the forms have been reviewed by privacy and legal experts in our organisation. However, we encourage you to check in with your own legal and privacy teams. Your organisation might have different needs that aren’t addressed by our form yet.
 
 You can also forward our details to your legal and privacy teams if they’d like to be involved in helping us improve. 
 
-# Get involved #
+## Get involved 
 
 If you would like to work with us on this project, please get in touch! We’re also looking for people who can help us test the forms with more citizens and build out the clauses for different research scenarios. We can be contacted at: digital@finance.nsw.gov.au.
 
