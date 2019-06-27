@@ -10,12 +10,14 @@ Anything you can do to promote the service will help. You could promote it on yo
 
 ## Build the service kit
 
-We've even done some templates you might be able to use to promote and build the service! 
+To help make promoting the service easier, we've made a kit you might be able to use.  
 
-- Tweet
-- Facebook post
-- Download a flyer
-- Send an email
-- Mission patch 
+The kit includes templates for:
+
+- Tweets
+- Facebook posts
+- A flyer
+- An email invitation
+- A mission patch sticker 
 
 Send me the kit
