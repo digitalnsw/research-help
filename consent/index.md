@@ -5,7 +5,7 @@ name: Consent forms
 
 If you’re new to research or service design, or your organisation is, you might need to create a consent form and participant information sheet.
 
-This tool helps you build forms that include all the terms you need to be compliant with NSW Privacy law. It will take around 10-15 minutes. 
+This tool helps you build forms that include all the terms you need to be compliant with NSW Privacy law. It will take 10-15 minutes. 
 
 <p>
 	   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdPAvNyaF5DZrNJOBTN43CAgSkKqB2cyodeTt8YV6fVyqu61A/viewform?usp=sf_link">
