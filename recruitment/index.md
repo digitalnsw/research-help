@@ -8,11 +8,7 @@ Before we open it up for use though, we need a lots of people to sign up. If we 
 
 Anything you can do to promote the service will help. You could promote it on your social media accounts, or on your website. If you've done the hard work to recruit users for a usability test or an interview, we've also got flyers you can share with them if they want to do further research.
 
-## Build the service kit
-
-To help make promoting the service easier, we've made a kit you might be able to use.  
-
-The kit includes templates for:
+To help make promoting the service easier, we've made a kit you might be able to use. The kit includes templates for:
 
 - Tweets
 - Facebook posts
