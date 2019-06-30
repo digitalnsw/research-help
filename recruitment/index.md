@@ -2,7 +2,7 @@
 
 Recruiting the right users for user research can be hard, costly, and time consuming. We think a research recruitment service that's open to people doing research in government might help. 
 
-Before we open it up for researchers to use though, we need a lots of users to sign up. If we don't have enough people on the list, we'll all just end up interviewing the same people! We're a really small team though so we can't build the list without your help.
+Before we open it up for researchers to use though, we need a lots of users to sign up. If we don't have enough people on the list, everyone will end up interviewing the same people. We're a really small team though, so we can't build the list without your help!
 
 ## Get involved
 
