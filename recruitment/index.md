@@ -4,7 +4,7 @@ Recruiting the right users for user research can be hard, costly, and time consu
 
 If you'd like to use the recruitment service once it goes live, you can [register your interest](https://forms.gle/UFhcuZURNnW6KCjB7). 
 
-We're in the process of building the recruitment list. We can't open the list up to researchers until we have enough participants on the list, so it might be a while before the service goes live. If we don't have enough people on the list researchers will just end up talking to the same people!
+We're in the process of building the recruitment list, so it might be a while before the service goes live. We can't open the list up to researchers until we have enough people signed up. If we don't have enough people on the list researchers will just end up talking to the same people. 
 
 
 ## We need your help
