@@ -4,15 +4,16 @@ Recruiting the right users for user research can be hard, costly, and time consu
 
 If you'd like to use the recruitment service once it goes live, you can [register your interest](https://forms.gle/UFhcuZURNnW6KCjB7). 
 
-We can't open the list up to researchers until we have enough user research participants signed up though. Otherwise researchers will just end up talking to the same people! We're a really small team, so we can't build the list without your help!
-
+We're in the process of signing up people who might like to participate in research. We can't open the list up to researchers until we have enough participants signed up. Otherwise researchers will just end up talking to the same people!
 
 
 ## We need your help
 
-We need people to promote the service so more user research participants sign up. You could promote it on your social media accounts, or on your website. If you've done the hard work to recruit users for a usability test or an interview, we've also got flyers you can share with them if they want to do further research.
+We're a really small team, so we need help building the list of research participants. If you can help promote the service, it will help us deliver something you can use sooner. 
 
-To help make promoting the service easier, we've made a kit you might be able to use. The kit includes templates for:
+You could promote it on your social media accounts, or on your website. If you've done the hard work to recruit users for a usability test or an interview, we've also got flyers you can share with them to encourage them to sign up for future research.
+
+To make promoting the service easier, we've made a kit you might be able to use. The kit includes templates for:
 
 - Tweets
 - Facebook posts
