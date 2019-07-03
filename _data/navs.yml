@@ -58,7 +58,7 @@ mainnav:
 bottomnav:
   -
     items:
-      -
+       -
         page: 'Legal'
         url: /legal/
       
