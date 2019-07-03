@@ -64,12 +64,6 @@ bottomnav:
       -
         page: 'Takedown position statement'
         url: /takedown/
-      -
-        page: 'Privacy'
-        url: https://www.customerservice.nsw.gov.au/privacy
-      -
-        page: 'Right to information'
-        url: https://www.customerservice.nsw.gov.au/right-to-information 
       
       
       
