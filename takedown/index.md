@@ -30,7 +30,7 @@ If you are concerned about specific material we have published online and would 
 
 ## Possible outcomes in response to takedown requests  ##
 
-- Access to the material remains unchanged on the Digital Design Scheme (DDS) repository and website 
+- Access to the material remains unchanged on the Digital Design System (DDS) repository and website 
 - Access to the material is restored via the DDS repository 
 - Access to the material is restored with changes in response to the takedown request via the DDS repository and website 
 - Access to the material is modified or redacted 
