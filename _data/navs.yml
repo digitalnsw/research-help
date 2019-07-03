@@ -59,6 +59,14 @@ bottomnav:
   -
     items: 
       -
-        page: 'Legal'
-        url: /legal/ 
+        page: 'Takedown position statement'
+        url: /takedown/
+      -
+        page: 'Copyright and disclaimer'
+        url: /copyright/ 
+      -
+        page: 'Privacy'
+        url: /privacy/
+        
+        
       
