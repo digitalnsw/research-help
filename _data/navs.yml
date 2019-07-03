@@ -62,6 +62,9 @@ bottomnav:
         page: 'Copyright and disclaimer'
         url: /copyright/
       -
-        page: 'Takedown Position Statement '
+        page: 'Takedown Position Statement'
         url: /takedown/
+      -
+        page: 'Privacy'
+        url: https://www.customerservice.nsw.gov.au/privacy
       
