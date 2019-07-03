@@ -62,7 +62,7 @@ bottomnav:
         page: 'Copyright and disclaimer'
         url: /copyright/
       -
-        page: 'Takedown Position Statement'
+        page: 'Takedown position statement'
         url: /takedown/
       -
         page: 'Privacy'
