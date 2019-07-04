@@ -29,7 +29,7 @@ To seek permission to use any material other than as permitted by this licence, 
 
 ## Disclaimer ##
 
-The NSW Government is committed to enhancing the public availability, sharing and exchange of information. While the material contained in this {Department of Customer Service (DCS) website](https://www.customerservice.nsw.gov.au/) has been formulated with all due care, DCS does not warrant or represent that the material is free from errors or omission, or that it is exhaustive.
+The NSW Government is committed to enhancing the public availability, sharing and exchange of information. While the material contained in this [Department of Customer Service (DCS) website](https://www.customerservice.nsw.gov.au/) has been formulated with all due care, DCS does not warrant or represent that the material is free from errors or omission, or that it is exhaustive.
 
 DCS disclaims, to the extent permitted by law, all warranties, representations or endorsements, express or implied, with regard to the material including but not limited to, all implied warranties of merchantability, fitness for a particular purpose, or non-infringement. 
 
