@@ -66,9 +66,9 @@ bottomnav:
         url: /copyright/ 
       -
         page: 'Privacy'
-        url: /privacy
+        url: /privacy/
       -
         page: 'Accessibility'
-        url: /accessibility     
+        url: /accessibility/     
         
       
