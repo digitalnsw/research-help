@@ -17,7 +17,7 @@ title: Get help with research
 browserTitle: Get help with research
 email: jessie.calaghan@finance.nsw.gov.au
 description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "/research-library" # the subpath of your site, e.g. /blog
+baseurl: "/research-library/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: digital_nsw
 github_username:  digitalnsw
