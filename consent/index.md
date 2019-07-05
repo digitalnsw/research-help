@@ -10,7 +10,7 @@ The tool will ask you a few questions and then you'll get a form emailed to you.
 
 <p>
 	   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdPAvNyaF5DZrNJOBTN43CAgSkKqB2cyodeTt8YV6fVyqu61A/viewform?usp=sf_link">
-     <button class="au-btn">Make my forms</button>
+     <button class="au-btn">Make my consent forms</button>
   </a>	    
 </p>
 
