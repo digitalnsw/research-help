@@ -5,7 +5,7 @@ name: Getting consent in research
 
 If you’re new to research or service design, or your organisation is, you might need to create a consent form and participant information sheet. 
 
-We've built a tool that helps you build these forms, saving you time. It also helps make sure your forms have all the mandatory bits that these forms need to have in NSW.
+We've built a tool that helps you build these forms quickly and easily. It also helps make sure your forms have all the mandatory bits that these forms need.
 
 The tool will ask you a few questions about your research and then you'll get a form emailed to you. It usually take 10-15 minutes to complete. 
 
@@ -31,9 +31,9 @@ If you want to use the consent form builder for these kinds of projects, you may
 
 ## Check in with legal and privacy 
 
-The individual parts in the forms have been reviewed by privacy and legal experts in our organisation. However, we encourage you to check in with your own legal and privacy teams. Your organisation might have different needs that aren’t addressed by our form yet.
+The individual parts in the forms have been reviewed by privacy and legal experts in our organisation. However, we encourage you to check in with your own legal and privacy teams. Your organisation might have different needs that aren’t addressed by our form yet. This is especially true if you're not doing research in NSW. Every jurisdiction has different privacy laws, so if you're from outside NSW you might need to add extra terms.
 
-You can also forward our details to your legal and privacy teams if they’d like to be involved in helping us improve. 
+You can also forward our details to your legal and privacy teams if they’d like to be involved in helping us improve our forms. 
 
 ## Get involved 
 
