@@ -54,6 +54,9 @@ mainnav:
       -
         page: 'Recruitment'
         url: /recruitment/ 
+      -
+        page: 'Accessibility'
+        url: /accessibility/ 
 
 bottomnav:
   -
