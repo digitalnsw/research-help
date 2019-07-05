@@ -5,15 +5,18 @@ name: Getting consent in research
 
 If you’re new to research or service design, or your organisation is, you might need to create a consent form and participant information sheet. 
 
-We've built a tool that helps you build these forms quickly and easily. It also helps make sure your forms have all the mandatory bits.
-
-The tool will ask you a few questions about your research and then you'll get a form emailed to you. It usually takes 10-15 minutes to complete. 
+We've built a tool that helps you build these forms quickly and easily. The tool will ask you a few questions about your research and then you'll get a form emailed to you. It usually takes 10-15 minutes to complete. 
 
 <p>
 	   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdPAvNyaF5DZrNJOBTN43CAgSkKqB2cyodeTt8YV6fVyqu61A/viewform?usp=sf_link">
      <button class="au-btn">Make my consent forms</button>
   </a>	    
 </p>
+
+## Why use it
+
+The tool helps make sure your forms have all the mandatory bits under NSW privacy law. The forms are also written in Plain English which means its easier for research participants to read, and they understand what they're agreeing to when they sign. 
+
 
 ## When to use it 
 
@@ -29,9 +32,11 @@ Sensitive research topics (for example, domestic violence or health matters) are
 
 If you want to use the consent form tool for these kinds of projects, you may need to work with your legal team to add a few extra clauses. 
 
+The tool only complies with the [Privacy and Personal Information Protection Act 1998](https://www.legislation.nsw.gov.au/#/view/act/1998/133). If you're doing research outside NSW, you might need to add different levels of consent.
+
 ## Check in with legal and privacy 
 
-The individual parts in the forms have been reviewed by privacy and legal experts in our organisation. However, we encourage you to check in with your own legal and privacy teams. Your organisation might have different needs that aren’t addressed by our form yet. This is especially true if you're not doing research in NSW. Every jurisdiction has different privacy laws, so if you're from outside NSW you might need to add extra terms.
+The individual parts in the forms have been reviewed by privacy and legal experts in our organisation. However, we encourage you to check in with your own legal and privacy teams. Your organisation might have different needs that aren’t addressed by our form yet. This is especially true if you're not doing research in NSW, every jurisdiction has different privacy laws.
 
 You can also forward our details to your legal and privacy teams if they’d like to be involved in helping us improve our forms. 
 
