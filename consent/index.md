@@ -5,8 +5,9 @@ name: Getting consent in research
 
 If you’re new to research or service design, or your organisation is, you might need to create a consent form and participant information sheet. 
 
-We've built a tool that helps you build these forms. It helps make sure you include all the terms you need to be compliant with the NSW Personal Information Protection Act 1998. It's also written in plain English, which means its easier for research participants to read.  
-The tool will ask you a few questions and then you'll get a form emailed to you. It usually take 10-15 minutes to complete. 
+We've built a tool that helps you build these forms, saving you time. It also helps make sure your forms have all the mandatory bits that these forms need to have in NSW.
+
+The tool will ask you a few questions about your research and then you'll get a form emailed to you. It usually take 10-15 minutes to complete. 
 
 <p>
 	   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdPAvNyaF5DZrNJOBTN43CAgSkKqB2cyodeTt8YV6fVyqu61A/viewform?usp=sf_link">
