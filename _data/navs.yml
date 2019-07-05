@@ -43,10 +43,10 @@ mainnav:
         page: 'Home'
         url: /
       -
-        page: 'Contribute Research'
+        page: 'Sharing Research'
         url: /contributing/
       -
-        page: 'Consent Form Builder'
+        page: "Getting consent'
         url: /consent/
       -
         page: 'Peer Review Community'
