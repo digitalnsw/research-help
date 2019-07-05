@@ -7,7 +7,7 @@ If you’re new to research or service design, or your organisation is, you migh
 
 We've built a tool that helps you build these forms quickly and easily. It also helps make sure your forms have all the mandatory bits.
 
-The tool will ask you a few questions about your research and then you'll get a form emailed to you. It usually take 10-15 minutes to complete. 
+The tool will ask you a few questions about your research and then you'll get a form emailed to you. It usually takes 10-15 minutes to complete. 
 
 <p>
 	   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdPAvNyaF5DZrNJOBTN43CAgSkKqB2cyodeTt8YV6fVyqu61A/viewform?usp=sf_link">
@@ -25,9 +25,9 @@ We started with forms that can be used for research that involves:
 -	non-sensitive topics
 -	publication of anonymised research findings
 
-Sensitive research topics (for example, domestic violence or health matters) are a bit more complicated. The same goes for gaining consent from children. If you plan to publish or share findings that are not anonymised, you will need additional levels of consent. We plan to look at these scenarios in future. 
+Sensitive research topics (for example, domestic violence or health matters) are a bit more complicated. The same goes for gaining consent from children. If you plan to publish or share findings that are not anonymised, you'll need additional levels of consent. We plan to look at these scenarios in future. 
 
-If you want to use the consent form builder for these kinds of projects, you may need to work with your legal team to add a few extra clauses. 
+If you want to use the consent form tool for these kinds of projects, you may need to work with your legal team to add a few extra clauses. 
 
 ## Check in with legal and privacy 
 
