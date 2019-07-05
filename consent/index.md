@@ -5,7 +5,7 @@ name: Getting consent in research
 
 If you’re new to research or service design, or your organisation is, you might need to create a consent form and participant information sheet. 
 
-We've built a tool that helps you build these forms quickly and easily. It also helps make sure your forms have all the mandatory bits that these forms need.
+We've built a tool that helps you build these forms quickly and easily. It also helps make sure your forms have all the mandatory bits.
 
 The tool will ask you a few questions about your research and then you'll get a form emailed to you. It usually take 10-15 minutes to complete. 
 
