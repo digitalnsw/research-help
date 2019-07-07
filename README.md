@@ -10,4 +10,4 @@ bundle install
 bundle exec jekyll serve
 ```
 
-Then open <http://localhost:4000>
+Then open <http://localhost:4000/research-library/>
