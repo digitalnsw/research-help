@@ -114,7 +114,7 @@
         <ul class="au-link-list au-link-list--inline">
           {% if site.data.navs.bottomnav[0] %}
             {% for item in site.data.navs.bottomnav[0].items %}
-                <li class="{% if item.url == page.url %}active{% endif %}"><a href="{{ site.baseurl }}{{ item.url }}">{{ item.page }}</a></li>
+                <li class="{% if item.url == page.url %}active{% endif %}"><a href="{% if item.external != true %}{{ site.baseurl }}{% endif %}{{ item.url }}">{{ item.page }}</a></li>
             {% endfor %}
           {% endif %}
         </ul>

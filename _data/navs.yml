@@ -66,7 +66,8 @@ bottomnav:
         url: /copyright/  
       -
         page: 'Privacy'
-        url: /privacy/
+        url: https://www.customerservice.nsw.gov.au/privacy/
+        external: true
       -
         page: 'Accessibility'
         url: /accessibility/
