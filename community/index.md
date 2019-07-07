@@ -1,10 +1,10 @@
 ---
 name: Peer Review
 ---
-# Peer review community #
+# Research community #
 	
 
-We're setting up a community of volunteers to help build research practice in government. We hope it could be a place where researchers can get help and advice on their research. By 'research', we mean things like research plans, discussion guides, research ethics assessments, survey questions or behavioural experiments
+We're setting up a community of volunteers to help build research practice in government. We hope it could be a community where researchers can get help and advice on their research. By 'research', we mean things like research plans, discussion guides, research ethics assessments, survey questions or behavioural experiments.
 	
 
 # Join the community #

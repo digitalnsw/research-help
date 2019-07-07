@@ -46,14 +46,14 @@ mainnav:
         page: 'Sharing Research'
         url: /contributing/
       -
-        page: 'Getting consent'
+        page: 'Getting Consent'
         url: /consent/
-      -
-        page: 'Peer Review Community'
-        url: /community/ 
       -
         page: 'Recruitment'
         url: /recruitment/ 
+      -
+        page: 'Research Community'
+        url: /community/ 
      
 bottomnav:
   -
