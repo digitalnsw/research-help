@@ -5,7 +5,7 @@ name: Getting consent in research
 
 If you’re new to research or service design, or your organisation is, you might need to create a consent form and participant information sheet. 
 
-In most cases, you can't do user research without these forms. To hlep make things easier, we've built a tool that helps you build these forms quickly and easily. 
+In most cases, you can't do user research without these forms. To help make things easier, we've built a tool that helps you build these forms quickly and easily. 
 
 The tool will ask you a few questions about your research and create the forms based on your answers. The questions usually take 10-15 minutes to complete. Once you answer the questions, we'll send you your forms. 
 
