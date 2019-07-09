@@ -13,7 +13,7 @@ Even if you've been doing research for a while, you might find this tool useful.
 
 The tool will ask you a few questions about your research and create forms based on your answers. The questions usually take 10-15 minutes to complete. 
 
-Once you answer the questions, we'll send you your forms. As this is a prototype, your forms might take a while to arrive. Allow a day just to be safe.
+Once you answer the questions, we'll send you your forms. As this is a prototype, your forms might take a while to arrive. Allow a day or two just to be safe.
 
 <p>
 	   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdPAvNyaF5DZrNJOBTN43CAgSkKqB2cyodeTt8YV6fVyqu61A/viewform?usp=sf_link">
