@@ -1,10 +1,12 @@
 # Research recruitment
 
-Recruiting the right users for user research can be hard, costly, and time consuming. We think a research recruitment service that's open to government researchers might help. 
+Recruiting the right users for user research can be hard, costly, and time consuming. Small teams often have to use social media to recruit users, or through community networks. This can take a lot of time, and teams might not get to speak to the right people. Some teams have a budget to use a private user research recruitment service, but for some teams the cost of recruitment is a barrier to doing research. 
 
-We're still testing if there is a need for this service though, so it might be a while before it goes live. If there isn't a need for it, it won't go live at all. 
+We think a research recruitment service that's open to government researchers might help. 
 
-If you'd be interested in using a research nrecruitment service, you can [register your interest](https://forms.gle/UFhcuZURNnW6KCjB7). 
+We're still testing if there is a need for this service, so it might be a while before it goes live. If we find there isn't a need for it, it won't go live at all. 
+
+If you'd be interested in using a research recruitment service to recruit user research participants, you can [register your interest](https://forms.gle/UFhcuZURNnW6KCjB7). 
 
 
 ## We need your help
