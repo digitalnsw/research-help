@@ -43,17 +43,9 @@ mainnav:
         page: 'Home'
         url: /
       -
-        page: 'Sharing Research'
-        url: /contributing/
-      -
         page: 'Getting Consent'
         url: /consent/
-      -
-        page: 'Recruitment'
-        url: /recruitment/ 
-      -
-        page: 'Research Community'
-        url: /community/ 
+      
      
 bottomnav:
   -
