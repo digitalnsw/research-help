@@ -9,12 +9,12 @@ If you'd be interested in using a research nrecruitment service, you can [regist
 
 ## We need your help
 
-If we find there is a need for a research recruitment service, we'll need your help building it. 
+If we find there is a need for a research recruitment service, we'll need your help creating and promoting the service. We're a really small team, so we can't do it without your help. 
 
-We're a really small team, so we can't do it without your help. If you can help in any way, please get in touch.
+If you can help in any way, please get in touch.
 
 <p>
 <a href="mailto:digital@finance.nsw.gov.au?subject=I would like to help build a research recruitment service">
-<button class="au-btn">I can help build the service</button>
+<button class="au-btn">I can help create the service</button>
 </a>	
 </p>

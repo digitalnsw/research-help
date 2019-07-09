@@ -3,11 +3,11 @@ name: Getting consent in research
 ---
 # Getting consent in research
 
-If you’re new to research or service design, or your organisation is, you might need to create a consent form and participant information sheet. 
+If you’re new to research or service design, or your organisation is, you might need to create a consent form and participant information sheet. In most cases, you can't do user research or usability testing without these forms. To help make things easier, we've built a tool that helps you build these forms quickly and easily. 
 
-In most cases, you can't do user research or usability testing without these forms. To help make things easier, we've built a tool that helps you build these forms quickly and easily. 
+Even if you've been doing research for a while, you might find this tool useful. If you find yourself changing your consent forms or information sheets regularly, this tool might help. 
 
-The tool will ask you a few questions about your research and create the forms based on your answers. The questions usually take 10-15 minutes to complete. Once you answer the questions, we'll send you your forms. 
+The tool will ask you a few questions about your research and create the forms based on your answers. The questions usually take 10-15 minutes to complete. Once you answer the questions, we'll send you your forms. As this is a prototype, your forms might take a while to arrive. Allow a day just to be safe.
 
 <p>
 	   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdPAvNyaF5DZrNJOBTN43CAgSkKqB2cyodeTt8YV6fVyqu61A/viewform?usp=sf_link">
@@ -18,6 +18,8 @@ The tool will ask you a few questions about your research and create the forms b
 ## Why use it
 
 The tool helps make sure your forms have all the mandatory bits under the [Privacy and Personal Information Protection Act 1998](https://www.legislation.nsw.gov.au/#/view/act/1998/133). 
+
+If you find yourself tailoring your forms based on the type of research you're conducting, the tool might save you time. Especially if you're finding you need to get changes to forms cleared through legal and privacy teams each time you make a significant revision. 
 
 The forms are also written in plain English which means its easier for research participants to read. This means they're more likely to understand what they're agreeing to when they sign. 
 
