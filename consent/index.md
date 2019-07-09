@@ -1,19 +1,17 @@
 ---
-name: Getting consent in research
+name: Getting consent for research
 ---
-# Getting consent in research
+# Getting consent for research
 
-If you’re new to research or service design, or your organisation is, you might need to create a consent form and participant information sheet. 
+If you're doing user research or usability testing, you might need to create a consent form and participant information sheet.
+In most cases, you can't do user research without these forms. To help make things easier, we've built a tool that helps you build these forms quickly and easily. 
 
-In most cases, you can't do user research or usability testing without these forms. To help make things easier, we've built a tool that helps you build these forms quickly and easily. 
-
-Even if you've been doing research for a while, you might find this tool useful. If you find yourself changing your consent forms or information sheets regularly, this tool might help. 
 
 ## How to use it
 
-The tool will ask you a few questions about your research and create forms based on your answers. The questions usually take 10-15 minutes to complete. 
+The tool will ask you a few questions about your research and create forms based on your answers. The questions usually take 10 minutes to complete. 
 
-Once you answer the questions, we'll send you your forms. As this is a prototype, your forms might take a while to arrive. Please allow a day or two just to be safe.
+Once you answer the questions, we'll send you your forms. As this is a prototype, please allow a day or two for your forms to arrive.
 
 <p>
 	   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdPAvNyaF5DZrNJOBTN43CAgSkKqB2cyodeTt8YV6fVyqu61A/viewform?usp=sf_link">
@@ -23,11 +21,9 @@ Once you answer the questions, we'll send you your forms. As this is a prototype
 
 ## Why use it
 
-The tool helps make sure your forms have all the mandatory bits under the [Privacy and Personal Information Protection Act 1998](https://www.legislation.nsw.gov.au/#/view/act/1998/133). 
-
-If you find yourself tailoring your forms based on the type of research you're conducting, the tool might save you time. Especially if you're finding you need to get changes to forms cleared through legal and privacy teams each time you make a significant revision. 
-
-The forms are also written in plain English which means its easier for research participants to read. This means they're more likely to understand what they're agreeing to when they sign. 
+- Compliance: the tool helps make sure your forms have all the mandatory bits under the [Privacy and Personal Information Protection Act   1998](https://www.legislation.nsw.gov.au/#/view/act/1998/133). 
+- To save time: if you find yourself tailoring your forms based on the type of research you're conducting, the tool might save you time.   Especially if you're finding you need to get changes to forms cleared through legal and privacy teams each time you make a significant   revision. 
+- For the user: the forms are also written in plain English which means its easier for research participants to read. This means they're   more likely to understand what they're agreeing to when they sign. 
 
 
 ## When to use it 
@@ -56,5 +52,5 @@ You can also forward our details to your legal and privacy teams if they’d lik
 
 ## Get involved 
 
-If you would like to work with us on this project, please get in touch! We’re also looking for people who can help us test the forms with more citizens and build out the clauses for different research scenarios. We can be contacted at: <a href="mailto:digital@finance.nsw.gov.au?subject=Consent in research">digital@finance.nsw.gov.au</a>.
+If you would like to work with us on this project, please get in touch! We’re also looking for people who can help us test the forms with more citizens and build out the clauses for different research scenarios. We can be contacted at <a href="mailto:digital@finance.nsw.gov.au?subject=Consent in research">digital@finance.nsw.gov.au</a>.
 <p>&nbsp;</p>.
