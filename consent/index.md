@@ -5,7 +5,7 @@ name: Getting consent in research
 
 If you’re new to research or service design, or your organisation is, you might need to create a consent form and participant information sheet. 
 
-In most cases, you can't do user research without these forms. To hlep make things easier, we've built a tool that helps you build these forms quickly and easily. 
+In most cases, you can't do user research or usability testing without these forms. To help make things easier, we've built a tool that helps you build these forms quickly and easily. 
 
 The tool will ask you a few questions about your research and create the forms based on your answers. The questions usually take 10-15 minutes to complete. Once you answer the questions, we'll send you your forms. 
 
@@ -32,11 +32,11 @@ We started with forms that can be used for research that involves:
 -	non-sensitive topics
 -	publication of anonymised research findings
 
-Sensitive research topics (for example, domestic violence or health matters) are a bit more complicated. The same goes for gaining consent from children. If you plan to publish or share findings that are not anonymised, you'll need additional levels of consent. We plan to look at these scenarios in future. 
+Sensitive research topics (for example, domestic violence or health matters) are a bit more complicated. The same goes for gaining consent from children. If you plan to publish or share findings that are not anonymised, you'll also need additional levels of consent. We plan to look at more scenarios in future. 
 
 If you want to use the consent form tool for these kinds of projects, you may need to work with your legal team to add a few extra clauses. 
 
-The tool only complies with the [Privacy and Personal Information Protection Act 1998](https://www.legislation.nsw.gov.au/#/view/act/1998/133). If you're doing research outside NSW, you might need to add different levels of consent.
+The tool only complies with the [Privacy and Personal Information Protection Act 1998](https://www.legislation.nsw.gov.au/#/view/act/1998/133). If you're doing research outside NSW, you might need to add different levels of consent too.
 
 ## Check in with legal and privacy 
 
