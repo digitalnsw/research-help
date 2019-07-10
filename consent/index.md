@@ -53,5 +53,5 @@ You can also forward our details to your legal and privacy teams if they’d lik
 
 ## Get involved 
 
-If you would like to work with us on this project, please get in touch! We’re also looking for people who can help us test the forms with more citizens and build out the clauses for different research scenarios. We're also looking to speak to legal and privacy teams. We can be contacted at <a href="mailto:digital@finance.nsw.gov.au?subject=Consent in research">digital@finance.nsw.gov.au</a>.
+If you would like to work with us on this project, please get in touch! We’re also looking for people who can help us test the forms with more citizens and build out the clauses for different research scenarios. We can be contacted at <a href="mailto:digital@finance.nsw.gov.au?subject=Consent in research">digital@finance.nsw.gov.au</a>.
 <p>&nbsp;</p>.
