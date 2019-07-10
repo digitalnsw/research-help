@@ -22,11 +22,11 @@ Once you answer the questions, we'll send you your forms. As this is a prototype
 
 ## Why use it
 
-<ul>
+<p> <ul>
 	<li> <b>Compliance:</b> the tool helps make sure your forms have all the mandatory bits under the <a href="https://www.legislation.nsw.gov.au/#/view/act/1998/133">Privacy and Personal Information Protection Act 1998</a>.</li>
 	<li> <b>To save time:</b> if you find yourself tailoring your forms based on the type of research you're conducting, the tool might save you time.   Especially if you're finding you need to get changes to forms cleared through legal and privacy teams each time you make a significant revision. This will help streamline the approval process.</li> 
 	<li><b>For the user:</b> the forms are also written in plain English which means its easier for research participants to read. This means they're more likely to understand what they're agreeing to when they sign.</li> 
-</ul>
+</ul> </p>
 
 ## When to use it 
 
