@@ -24,7 +24,7 @@ Once you answer the questions, we'll send you your forms. As this is a prototype
 ## Why use it
 
 - Compliance: the tool helps make sure your forms have all the mandatory bits under the [Privacy and Personal Information Protection Act   1998](https://www.legislation.nsw.gov.au/#/view/act/1998/133). 
-- To save time: if you find yourself tailoring your forms based on the type of research you're conducting, the tool might save you time.   Especially if you're finding you need to get changes to forms cleared through legal and privacy teams each time you make a significant   revision. 
+- To save time: if you find yourself tailoring your forms based on the type of research you're conducting, the tool might save you time.   Especially if you're finding you need to get changes to forms cleared through legal and privacy teams each time you make a significant   revision. This will help streamline the approval process. 
 - For the user: the forms are also written in plain English which means its easier for research participants to read. This means they're   more likely to understand what they're agreeing to when they sign. 
 
 
@@ -50,9 +50,9 @@ The individual parts in the forms have been reviewed by privacy and legal expert
 
 Your organisation might have different needs that aren’t addressed by our form yet. This is especially true if you're not doing research in NSW, every jurisdiction has different privacy laws.
 
-You can also forward our details to your legal and privacy teams if they’d like to be involved in helping us improve our forms. 
+You can also forward our details to your legal and privacy teams if they’d like to be involved in helping us improve the forms. 
 
 ## Get involved 
 
-If you would like to work with us on this project, please get in touch! We’re also looking for people who can help us test the forms with more citizens and build out the clauses for different research scenarios. We can be contacted at <a href="mailto:digital@finance.nsw.gov.au?subject=Consent in research">digital@finance.nsw.gov.au</a>.
+If you would like to work with us on this project, please get in touch! We’re also looking for people who can help us test the forms with more citizens and build out the clauses for different research scenarios. We're also looking to speak to legal and privacy teams. We can be contacted at <a href="mailto:digital@finance.nsw.gov.au?subject=Consent in research">digital@finance.nsw.gov.au</a>.
 <p>&nbsp;</p>.
