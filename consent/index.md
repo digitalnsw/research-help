@@ -1,6 +1,4 @@
 ---
-layout: home
----
 name: Getting consent for research
 ---		  
 # Getting consent for research
