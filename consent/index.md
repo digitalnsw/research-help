@@ -1,6 +1,17 @@
 ---
 name: Getting consent for research
 ---
+
+  <div class="col-sm-4 col-sm-pull-8" id="content">			
+          <h2>Stay in the loop</h2>
+          <p>To get updates on what we're doing, you can sign up to our mailing list</p>
+			    <p>
+				    <a href="mailto:digital@finance.nsw.gov.au?subject=I'd like to stay in the research loop">
+              <button class="au-btn">Sign up</button>
+            </a>	    
+			    </p>
+			  </div>
+			  
 # Getting consent for research
 
 If you're doing user research or usability testing, you might need to create a consent form and participant information sheet. In most cases, you can't do user research without these forms. 
