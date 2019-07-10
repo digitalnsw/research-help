@@ -6,7 +6,7 @@ name: Getting consent for research
 If you're doing user research or usability testing, you might need to create a consent form and participant information sheet.
 In most cases, you can't do user research without these forms. 
 
-To help make things easier, we've built a tool that helps you build these forms quickly and easily. 
+To help make things easier for people doing research within NSW government, we've built a tool that helps build these forms quickly and easily. 
 
 
 ## How to use it
