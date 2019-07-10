@@ -1,6 +1,7 @@
 ---
 name: Getting consent for research
----		  
+---	
+<body>
 # Getting consent for research
 
 If you're doing user research or usability testing, you might need to create a consent form and participant information sheet. In most cases, you can't do user research without these forms. 
@@ -56,3 +57,4 @@ You can also forward our details to your legal and privacy teams if they’d lik
 
 If you would like to work with us on this project, please get in touch! We’re also looking for people who can help us test the forms with more citizens and build out the clauses for different research scenarios. We can be contacted at <a href="mailto:digital@finance.nsw.gov.au?subject=Consent in research">digital@finance.nsw.gov.au</a>.
 <p>&nbsp;</p>.
+</body>
