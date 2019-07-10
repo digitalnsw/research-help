@@ -1,10 +1,13 @@
 ---
 name: Getting consent for research
 ---	
+<head>
 <style>
 div.a {
   max-width: 42em;
 }
+</style>
+</head>
 
 <div class="a">
 # Getting consent for research
