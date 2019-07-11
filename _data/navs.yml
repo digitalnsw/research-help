@@ -45,6 +45,9 @@ mainnav:
       -
         page: 'Getting Consent'
         url: /consent/
+      -
+        page: 'Inclusion'
+        url: /inclusion/
       
      
 bottomnav:
