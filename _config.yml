@@ -17,7 +17,7 @@ title: Getting consent for research
 email: jessie.calaghan@finance.nsw.gov.au
 description: >- # this means to ignore newlines until "baseurl:"
  Tools to help with research 
-baseurl: "/research-library" # the subpath of your site, e.g. /blog
+baseurl: "/research-help" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: digital_nsw
 github_username:  digitalnsw
