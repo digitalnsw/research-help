@@ -87,8 +87,8 @@ address {
 
 .item-list ul li {
     float: left;
-    margin-right: 20px;
-    margin-right: 1.25rem;
+    margin-right: 10px;
+    margin-right: .625rem;
     margin-bottom: 5px;
     margin-bottom: .3125rem;
 }
@@ -99,7 +99,7 @@ address {
     border: 1px solid #002664;
     padding: 6px;
     padding: .375rem;
-    width: auto;
+    width: 100%;
     display: inline-block;
     margin: 0;
     font-size: 11px;
