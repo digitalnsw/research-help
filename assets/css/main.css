@@ -88,7 +88,7 @@ address {
 .item-list ul li {
     float: left;
     margin-right: 10px;
-    margin-right: .625rem;
+    margin-right: 25em;
     margin-bottom: 5px;
     margin-bottom: .3125rem;
 }
@@ -129,7 +129,7 @@ h3 {
     font-size: 1.5rem;
 }
 .item-list ul {
-    margin: 0.75em 0.75em 0.75em 0.75em;
+    margin: 0 0 0.75em 0;
     padding: 0;
 }
 
