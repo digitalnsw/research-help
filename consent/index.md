@@ -15,6 +15,12 @@ The tool will ask you a few questions about your research and create forms based
 
 Once you answer the questions, we'll send you your forms. As this is a prototype, please allow a day or two for your forms to arrive.
 
+<p>
+	<a href="https://docs.google.com/forms/d/e/1FAIpQLSdPAvNyaF5DZrNJOBTN43CAgSkKqB2cyodeTt8YV6fVyqu61A/viewform?usp=sf_link">
+     <button class="au-btn">Make my forms</button>
+  </a>	    
+</p>
+
 ## Why use it
 
 <ul>
