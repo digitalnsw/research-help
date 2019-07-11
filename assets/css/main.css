@@ -87,8 +87,8 @@ address {
 
 .item-list ul li {
     float: left;
-    margin-right: 10px;
-    margin-right: 1.625rem;
+    margin-right: 20px;
+    margin-right: 1.25rem;
     margin-bottom: 5px;
     margin-bottom: .3125rem;
 }
