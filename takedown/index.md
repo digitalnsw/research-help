@@ -5,19 +5,19 @@ When deciding to publish material online, Digital.nsw has made the best effort t
 
 In order to maintain a consistent approach to takedown requests, Digital.nsw have agreed to take into consideration the following general principles: 
 
-A written request with reasons and relevant evidence from a requestor will be the instigation for determining whether content needs to be taken down from the website 
+- A written request with reasons and relevant evidence from a requestor will be the instigation for determining whether content needs to be taken down from the website 
 
-Permanent access restrictions or takedown will be considered as an exceptional response 
+- Permanent access restrictions or takedown will be considered as an exceptional response 
 
-Relationship of the requestor to the relevant material or impact on the requestor 
+- Relationship of the requestor to the relevant material or impact on the requestor 
 
-Content of the material (including the sensitivity of personal information, offensive nature, or culture sensitivity and ownership of copyright) 
+- Content of the material (including the sensitivity of personal information, offensive nature, or culture sensitivity and ownership of copyright) 
 
-Specific jurisdictional legislation and related exemptions 
+- Specific jurisdictional legislation and related exemptions 
 
-Access restrictions or takedown of material made available online should, as far as practical, be openly acknowledged with a statement noting the takedown 
+- Access restrictions or takedown of material made available online should, as far as practical, be openly acknowledged with a statement noting the takedown 
 
-As circumstances change, or after a period of time, material that has been restricted access, taken down or redacted will be reviewed and reinstated 
+- As circumstances change, or after a period of time, material that has been restricted access, taken down or redacted will be reviewed and reinstated 
 
 ## Procedure for making a take-down request ##
 
