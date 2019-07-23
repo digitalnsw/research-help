@@ -40,5 +40,3 @@ If you are concerned about specific material we have published online and would 
 We should also state that there will be regular reviews of take-down decisions and that where the circumstances of the original take-down request have changed over time, it may result in access to the material being restored. 
 
 Contact us on: [digital@finance.nsw.gov.au](digital@finance.nsw.gov.au)
-
-[Test](https://digitalnsw.github.io/research-help/contributing)
