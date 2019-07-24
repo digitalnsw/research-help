@@ -2,7 +2,7 @@
 
 We’ve been doing some research on user research and usability testing. We spoke to people inside and outside of government about what user research meant to them, and what challenges they face. 
 
-We’ve listed 15 of the challenges we heard below.
+We’ve listed 10 of the challenges we heard below.
 
 
 ## We need your help ##
@@ -43,7 +43,7 @@ People are nervous about having conversations with people, and what they might h
 <button class="au-btn"> I've experienced this </button>   <button class="au-btn"> I'd like to up vote this one </button>
 
 
-Recruitment. Its hard to recruit the right users, or any users at all sometimes. 
+Recruitment. Its hard to recruit the right users, or any users at all sometimes. People don't see how much work recruitment is because its usually done by a recruitment firm.
 
 <button class="au-btn"> I've experienced this </button>   <button class="au-btn"> I'd like to up vote this one </button>
 
@@ -75,3 +75,8 @@ It’s a challenge to engage people with a disability due to budget, time constr
 Budget. Not enough money to do the research, or recruit the right people.
 
 <button class="au-btn"> I've experienced this </button>   <button class="au-btn"> I'd like to up vote this one </button>
+
+Presenting a lot of data in a few succinct, but system-cognizant, and applied takeaways. 
+
+<button class="au-btn"> I've experienced this </button>   <button class="au-btn"> I'd like to up vote this one </button>
+
