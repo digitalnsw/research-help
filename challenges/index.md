@@ -38,31 +38,40 @@ Stakeholders don’t always understand why we need to do user research, or how i
 <button class="au-btn"> I've experienced this </button>   <button class="au-btn"> I'd like to up vote this one </button>
 
 
-- People are nervous about having conversations with people, and what they might hear. This can make them reluctant to do research. 
+People are nervous about having conversations with people, and what they might hear. This can make them reluctant to do research. 
+
+<button class="au-btn"> I've experienced this </button>   <button class="au-btn"> I'd like to up vote this one </button>
 
 
+Recruitment. Its hard to recruit the right users, or any users at all sometimes. 
+
+<button class="au-btn"> I've experienced this </button>   <button class="au-btn"> I'd like to up vote this one </button>
 
 
-- People get stuck in solution mode.
+People get stuck in solution mode.
+
+<button class="au-btn"> I've experienced this </button>   <button class="au-btn"> I'd like to up vote this one </button>
 
 
+Findings of research are dismissed because it doesn’t align with stakeholder assumptions, or it identifies things that ‘can’t be fixed’
 
-- Findings of research are dismissed because it doesn’t align with stakeholder assumptions, or it identifies things that ‘can’t be fixed’
-
-
-
-- Its difficult to uncover root causes of problems, and observe real user behaviour rather than attitudes that may not reflect reality.
+<button class="au-btn"> I've experienced this </button>   <button class="au-btn"> I'd like to up vote this one </button>
 
 
+Its difficult to uncover root causes of problems, and observe real user behaviour rather than attitudes that may not reflect reality.
 
-- Time. There’s never enough time to do the research. Stakeholders often don’t understand how much time is requiredTiming. The timing of the research, and the findings is not always right. Sometimes its too late, other times its too early. 
+<button class="au-btn"> I've experienced this </button>   <button class="au-btn"> I'd like to up vote this one </button>
 
+Time. There’s never enough time to do the research. Stakeholders often don’t understand how much time is requiredTiming. The timing of the research, and the findings is not always right. Sometimes its too late, other times its too early. 
 
-
-- It’s a challenge to engage people with a disability due to budget, time constraints and a perception that there are a lack of penalties for inaccessible services.
-
-
-
-- Budget. Not enough money to do the research, or recruit the right people.
+<button class="au-btn"> I've experienced this </button>   <button class="au-btn"> I'd like to up vote this one </button>
 
 
+It’s a challenge to engage people with a disability due to budget, time constraints and a perception that there are a lack of penalties for inaccessible services.
+
+<button class="au-btn"> I've experienced this </button>   <button class="au-btn"> I'd like to up vote this one </button>
+
+
+Budget. Not enough money to do the research, or recruit the right people.
+
+<button class="au-btn"> I've experienced this </button>   <button class="au-btn"> I'd like to up vote this one </button>
