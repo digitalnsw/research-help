@@ -28,7 +28,7 @@ Please only vote for one! :)
 
 ## Help solve a problem for other researchers ##
 
-If you can help solve any of the above problems, or would like to help create something that might help – please let us know. 
+If you can help solve any of the below problems, or would like to help create something that might help – please let us know. 
 
 
 # Challenges #
