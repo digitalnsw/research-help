@@ -16,17 +16,9 @@ We’re hoping you can help us learn:
 
 We’re using analytics on this page to track peoples movements and clicks. If you’ve experienced any of the below challenges, please click on the button underneath the challenge. 
 
+Please ‘up vote’ the challenge you think has been the biggest blocker for you in the past.
 
-## The biggest problem ##
-
-Please ‘up vote’ the problem you’d like solved first. The one you think has been the biggest blocker for you in the past.
-
-Please only vote for one! :)
-
-
-## Help solve a problem for other researchers ##
-
-If you can help solve any of the below problems, or would like to help create something that might help – please let us know. 
+Please only up vote one! :)
 
 
 # Challenges #
@@ -37,11 +29,6 @@ Stakeholders don’t always understand why we need to do user research, or how i
 
 
 People are nervous about having conversations with people, and what they might hear. This can make them reluctant to do research. 
-
-<button class="au-btn"> I've experienced this one </button> <button class="au-btn"> I'd like to up vote this one </button>
-
-
-Recruitment. Its hard to recruit the right users, or any users at all sometimes. People don't see how much work recruitment is because its usually done by a recruitment firm.
 
 <button class="au-btn"> I've experienced this one </button> <button class="au-btn"> I'd like to up vote this one </button>
 
@@ -61,7 +48,17 @@ Its difficult to uncover root causes of problems, and observe real user behaviou
 <button class="au-btn"> I've experienced this one </button> <button class="au-btn"> I'd like to up vote this one </button>
 
 
-Time. There’s never enough time to do the research. Stakeholders often don’t understand how much time is requiredTiming. The timing of the research, and the findings is not always right. Sometimes its too late, other times its too early. 
+Time. There’s never enough time to do the research. Stakeholders often don’t understand how much time is required to do research and make sense of the findings. 
+
+<button class="au-btn"> I've experienced this one </button> <button class="au-btn"> I'd like to up vote this one </button>
+
+
+Timing. The timing of the research, and the findings is not always right. Sometimes its too late, other times its too early. 
+
+<button class="au-btn"> I've experienced this one </button> <button class="au-btn"> I'd like to up vote this one </button>
+
+
+Recruitment. Its hard to recruit the right users, or any users at all sometimes. People don't see how much work recruitment is because its usually done by a recruitment firm.
 
 <button class="au-btn"> I've experienced this one </button> <button class="au-btn"> I'd like to up vote this one </button>
 
@@ -80,4 +77,13 @@ Presenting a lot of data in a few succinct, but system-cognizant, and applied ta
 
 <button class="au-btn"> I've experienced this one </button> <button class="au-btn"> I'd like to up vote this one </button>
 
-Have we missed an important challenge? Send us an email if we have and we can add it to the list.
+The guidelines on uncovering and meeting user needs in the [Digital Design Standard](https://www.digital.nsw.gov.au/digital-design-system/digital-design-standard/design-users-users) are not clear. They need to be more prescriptive if they're going to be helpful.  
+
+<button class="au-btn"> I've experienced this one </button> <button class="au-btn"> I'd like to up vote this one </button>
+
+
+## Help solve a problem for other researchers ##
+
+If you can help solve any of the above problems, we've started a conversation on slack about them.
+
+
