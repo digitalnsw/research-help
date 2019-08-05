@@ -1,6 +1,6 @@
 # Challenges for researchers #
 
-We’ve been doing some research on user research and usability testing. We spoke to people inside and outside of government about what user research meant to them, and what challenges they face. We’ve listed 10 of the challenges we heard below.
+We’ve been doing some research on user research and usability testing. We spoke to people inside and outside of government about what user research meant to them, and what challenges they face. We’ve listed 12 of the challenges we heard below.
 
 
 ## We need your help ##
